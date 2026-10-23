@@ -41,7 +41,9 @@ Used `INNER JOIN` to combine inventory and supplier data and calculated inventor
 - Summarizing and sorting data using aggregate functions.
 - Turning query results into useful business insights.
 
-- ##  Authors & Contact
+- 
+
+## 👩‍💻 Author & Contact
 veerpal Gill
 
 Aspiring Data Analyst
