@@ -42,5 +42,16 @@ Used `INNER JOIN` to combine inventory and supplier data and calculated inventor
 - Analyze products that need reordering.
 - Explore inventory levels by category.
 - Add more SQL queries and screenshots.
+- 
+- ##  Authors & Contact
+veerpal Gill
+
+Aspiring Data Analyst
+
+Email veerpalgill963@gmail.com
+
+www.linkedin.com/in/veerpal-gill
+
+
 
 This project is part of my ongoing Data Analytics learning journey.
