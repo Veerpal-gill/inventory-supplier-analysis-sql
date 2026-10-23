@@ -8,7 +8,7 @@ This hands-on SQL project explores inventory and supplier data to answer busines
 - Calculate inventory value by supplier category.
 - Practice joining tables and summarizing data with SQL.
   
-## scerrnshoot
+## screenshoot
 ![inventory Supplier analysis](https://github.com/Veerpal-gill/inventory-supplier-analysis-sql/blob/c5232954b4af6b17ab9470a490753d1dfc998e75/inventory%20and%20supplier%20project1.png)
 
 ## 🛠️ Tools Used
